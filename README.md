@@ -2,22 +2,22 @@
 
 Transformer 기초 복습부터 『핸즈온 LLM』 장별 실습까지, 한 학기 LLM 학습 과정을 단계별로 정리한 저장소입니다.
 
-학습 계획과 주기적인 진행 보고는 [00-plan](00-plan/)에 있습니다.
+학습 기간은 2026년 11월 3일부터 12월 6일까지 5주이며, 주차별 계획과 매주 진행 보고는 [00-plan](00-plan/)에 있습니다.
 
 ## 학습 단계
 
-| 단계 | 폴더 | 내용 | 상태 |
+| 단계 | 폴더 | 내용 | 계획 |
 | --- | --- | --- | --- |
-| 0 | [00-plan](00-plan/) | 학습 계획서, 진행 보고 | 진행 중 |
-| 1 | [01-foundations](01-foundations/) | Transformer와 LLM 기초 복습 (Word2Vec, ELMo, Seq2Seq, Attention, KV-cache, State of GPT 등) | 예정 |
-| 2 | [02-bert-vit](02-bert-vit/) | BERT와 ViT 정리 | 예정 |
-| 3 | [03-ch01-02](03-ch01-02/) | 『핸즈온 LLM』 1·2장 | 예정 |
-| 4 | [04-ch03-llama](04-ch03-llama/) | 3장 대규모 언어 모델 자세히 살펴보기 + Llama | 예정 |
-| 5 | [05-ch04-classification](05-ch04-classification/) | 4장 텍스트 분류 (요약, 과제) | 예정 |
-| 6 | [06-agent-whitepaper](06-agent-whitepaper/) | Google Agent Whitepaper 요약 | 예정 |
-| 7 | [07-ch05-clustering](07-ch05-clustering/) | 5장 텍스트 클러스터링과 토픽 모델링 (+ t-SNE, LDA, TF-IDF 예비학습) | 예정 |
-| 8 | [08-ch06-08](08-ch06-08/) | 6장 → 7장 → 8장 (+ GraphRAG) | 예정 |
-| 9 | [09-semester-end](09-semester-end/) | 12장, 여유가 있으면 10장 → 11장 → 9장 | 예정 |
+| 0 | [00-plan](00-plan/) | 학습 계획서, 진행 보고 | 매주 일요일 보고 |
+| 1 | [01-foundations](01-foundations/) | Transformer와 LLM 기초 복습 (Word2Vec, ELMo, Seq2Seq, Attention, KV-cache, State of GPT 등) | 1주 (11/3~) |
+| 2 | [02-bert-vit](02-bert-vit/) | BERT와 ViT 정리 | 1주 (11/3~) |
+| 3 | [03-ch01-02](03-ch01-02/) | 『핸즈온 LLM』 1·2장 | 2주 (11/10~) |
+| 4 | [04-ch03-llama](04-ch03-llama/) | 3장 대규모 언어 모델 자세히 살펴보기 + Llama | 2주 (11/10~) |
+| 5 | [05-ch04-classification](05-ch04-classification/) | 4장 텍스트 분류 (요약, 과제) | 3주 (11/17~) |
+| 6 | [06-agent-whitepaper](06-agent-whitepaper/) | Google Agent Whitepaper 요약 | 4주 (11/24~) |
+| 7 | [07-ch05-clustering](07-ch05-clustering/) | 5장 텍스트 클러스터링과 토픽 모델링 (+ t-SNE, LDA, TF-IDF 예비학습) | 4주 (11/24~) |
+| 8 | [08-ch06-08](08-ch06-08/) | 6장 → 7장 → 8장 (+ GraphRAG) | 5주 (12/1~) 6·7장, 8장은 여유 시 |
+| 9 | [09-semester-end](09-semester-end/) | 12장, 여유가 있으면 10장 → 11장 → 9장 | 여유 시 |
 
 ## 실행 환경
 
