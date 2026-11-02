@@ -1,0 +1,8 @@
+openai
+python-dotenv
+transformers
+sentence-transformers
+datasets
+scikit-learn
+jupyter
+nbstripout

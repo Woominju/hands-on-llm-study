@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets — never commit API keys
+.env
+.env.*
+!.env.example
+
+# Data, models, outputs
+data/
+models/
+checkpoints/
+outputs/
+wandb/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Lecture materials and textbook files (copyright)
+*.pdf
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
